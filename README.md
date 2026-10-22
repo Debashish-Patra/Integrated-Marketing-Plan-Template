@@ -4,19 +4,7 @@ An industry-agnostic template for writing an integrated marketing plan. It has 1
 
 All numbers are illustrative round figures created for teaching. None comes from a real company.
 
-## Structure
-
-```
-integrated-marketing-plan-template/
-├── index.html        The whole template (plan on a page, 13 sections, gaps, checklist)
-├── assets/
-│   ├── style.css     Styles (light and dark, responsive)
-│   └── site.js       Highlights the current section in the side navigation
-├── .nojekyll         Tells GitHub Pages to serve files as they are
-└── README.md
-```
-
-No build step and no dependencies beyond Google Fonts.
+https://debashish-patra.github.io/Integrated-Marketing-Plan-Template/
 
 ## Publish with GitHub Pages
 

@@ -27,3 +27,10 @@ No build step and no dependencies beyond Google Fonts.
 ## Using the template
 
 Copy the sections into a new document for each engagement. Fill the plan on a page first, then complete sections 1 to 13 in order. Text in [brackets] is a prompt to replace. Ranges and percentages are starting points to adjust.
+
+## Interactive features
+
+- **Example switcher** (top bar): show both industry examples, or only the investing platform or the airline.
+- **Tickable quality checks**: every check can be ticked; progress shows per section and overall, and is saved in the browser (Reset clears it).
+- **Budget splitter** (section 8): sliders over the eight objectives with live amounts and a 100% check.
+- **Cost-per-outcome calculator** (section 9): spend, cost per lead or visit and two conversion rates give cost per outcome, with an amber flag above +20% versus today.
